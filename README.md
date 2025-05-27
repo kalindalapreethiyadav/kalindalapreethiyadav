@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kalindalapreethiyadav
-- 👀 I've overall 6+ experience in IT industry.
-- 🌱 I’m currently doing POC's on Bash Scripting, Ansible, Terraform, docker, k8s
-- 💞️ Highly motivated AWS & DevOps Cloud Engineer with 3+ years of experience seeking a challenging role to leverage expertise in infrastructure automation, CI/CD pipelines, and cloud security to design, build, and deploy scalable cloud solutions
+- 👀 I've overall 7+ experience in IT industry.
+- 🌱 I’m currently doing POC's on Bash Scripting, Ansible, Terraform, docker, k8s, AWS, Azure, tests cases
+- 💞️ Highly motivated AWS & DevOps Cloud Engineer with 4+ years of experience seeking a challenging role to leverage expertise in infrastructure automation, CI/CD pipelines, and cloud security to design, build, and deploy scalable cloud solutions
 - 📫can reach me over "kalindalapreethiyadav@gmail.com
 
 <!---
